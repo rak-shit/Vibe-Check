@@ -59,7 +59,7 @@ const GridItem = styled.div`
 
 const JoinButton = styled.div`
   padding: 8px 10px;
-  color: #8627ff;
+  color: #44cdd2;
   background-color: black;
   text-align: center;
   font-size: 16px;
@@ -69,7 +69,7 @@ const JoinButton = styled.div`
 `;
 
 const EmailInput = styled.input`
-  background-color: #8627ff;
+  background-color: #44cdd2;
   border: 2px solid black;
   padding: 5px 5px;
   font-size: 16px;
@@ -124,7 +124,7 @@ const App = () => {
           />
         </div>
       </InnerDiv>
-      <InnerDiv style={{ backgroundColor: '#8627ff' }}>
+      <InnerDiv style={{ backgroundColor: '#44cdd2' }}>
         <Content>
           <WelcomeDiv>Welcome</WelcomeDiv>
           <GreenContent>
