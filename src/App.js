@@ -128,9 +128,12 @@ const App = () => {
         <Content>
           <WelcomeDiv>Welcome</WelcomeDiv>
           <GreenContent>
-            At Green Trucks, our mission is to create an enjoyable vegetable shopping experience for our customers. Our goal is 
-            to provide fresh and hygienic vegetables with a choice to handpick fresh stock from the cart at your doorstep with a 
-            super fast delivery experience with utmost transperancy. We are here to simplify your vegetable shopping experience :)
+            How many times has it happened to you, that similar taste in music with the 
+            people around you has helped in connecting with them on a deeper level? Based 
+            on that idea, we are thinking to create a platform where we could get the 
+            people around you to talk/ discover new music as well as discover 
+            new people matching your taste in music. Please subscribe and respond 
+            to our email list if you think you’d be interested in having such a platform! :)
           </GreenContent>
           <GreenContent>
             <div style={{ margin: '10px 0px' }}>mrksht@gmail.com</div>
